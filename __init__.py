@@ -1,0 +1,1 @@
+from .mongomanager import MongoContentsManager
